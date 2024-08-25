@@ -1,2 +1,5 @@
 # FUNDAMENTOS-DE-PROGRAMACI-N
-FUNDAMENTOS
+Materia: FUNDAMENTOS DE PROGRAMACIÓN 
+Alumno:Stalin Guachizaca 
+Paralelo: G
+
